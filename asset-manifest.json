@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Advice-Generator/static/css/main.c1ace553.chunk.css",
+    "main.css": "/Advice-Generator/static/css/main.521ef8b8.chunk.css",
     "main.js": "/Advice-Generator/static/js/main.92cbfe47.chunk.js",
     "main.js.map": "/Advice-Generator/static/js/main.92cbfe47.chunk.js.map",
     "runtime-main.js": "/Advice-Generator/static/js/runtime-main.4d16d8fa.js",
@@ -10,13 +10,13 @@
     "static/js/3.a87e032c.chunk.js": "/Advice-Generator/static/js/3.a87e032c.chunk.js",
     "static/js/3.a87e032c.chunk.js.map": "/Advice-Generator/static/js/3.a87e032c.chunk.js.map",
     "index.html": "/Advice-Generator/index.html",
-    "static/css/main.c1ace553.chunk.css.map": "/Advice-Generator/static/css/main.c1ace553.chunk.css.map",
+    "static/css/main.521ef8b8.chunk.css.map": "/Advice-Generator/static/css/main.521ef8b8.chunk.css.map",
     "static/js/2.a059ce47.chunk.js.LICENSE.txt": "/Advice-Generator/static/js/2.a059ce47.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4d16d8fa.js",
     "static/js/2.a059ce47.chunk.js",
-    "static/css/main.c1ace553.chunk.css",
+    "static/css/main.521ef8b8.chunk.css",
     "static/js/main.92cbfe47.chunk.js"
   ]
 }
